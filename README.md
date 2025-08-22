@@ -45,16 +45,6 @@ pip install tensorflow keras matplotlib numpy scikit-learn shap
 - Achieved high accuracy in tennis player/action recognition  
 - Explainability ensures trust by highlighting decision-making regions  
 
-## 📝 Citation
-If you use this project in your research, please cite as:
-
-```
-@article{yourname2025tennis,
-  title={Enhanced Tennis Action Recognition Using Hybrid CoaT Transformer with Explainable AI},
-  author={Your Name et al.},
-  year={2025}
-}
-```
 
 ## 👨‍💻 Author
 - **Your Name**  
