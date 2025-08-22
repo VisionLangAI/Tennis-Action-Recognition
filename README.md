@@ -44,9 +44,3 @@ pip install tensorflow keras matplotlib numpy scikit-learn shap
 ## 📈 Results
 - Achieved high accuracy in tennis player/action recognition  
 - Explainability ensures trust by highlighting decision-making regions  
-
-
-## 👨‍💻 Author
-- **Your Name**  
-Department of [Your Department]  
-[Your University]
