@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1042689863.svg)](https://doi.org/10.5281/zenodo.18941862)
+
 # Enhanced Tennis Action Recognition Using Hybrid CoaT Transformer with Explainable AI
 
 ## 📌 Project Overview
